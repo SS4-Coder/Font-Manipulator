@@ -1,0 +1,29 @@
+
+.heading{
+    font-size: 22px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+    }
+    .note{
+    font-size: 15px;
+    color:yellow
+    }
+    .footer{
+    text-align: center;
+    line-height: 3;
+    background-color:darkorchid;
+    color:aqua;
+    width:100%;
+    position: fixed;
+    bottom: 0;
+    font-size: 17px;
+    }
+    canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    }
+    video{
+    margin-left: 200px;
+    }
